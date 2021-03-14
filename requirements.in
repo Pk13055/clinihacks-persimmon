@@ -1,5 +1,10 @@
+# data ingestion
 pandas
 seaborn
+
+# excel handling
 openpyxl
 xlrd
 
+# application dev
+streamlit
